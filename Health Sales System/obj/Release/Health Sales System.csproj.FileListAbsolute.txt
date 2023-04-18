@@ -1,0 +1,11 @@
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\bin\Release\Health Sales System.exe.config
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\bin\Release\Health Sales System.exe
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\bin\Release\Health Sales System.pdb
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\bin\Release\Bunifu_UI_v1.5.3.dll
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\obj\Release\Health_Sales_System.login.resources
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\obj\Release\Health_Sales_System.Properties.Resources.resources
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\obj\Release\Health Sales System.csproj.GenerateResource.Cache
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\obj\Release\Health Sales System.exe
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\obj\Release\Health Sales System.pdb
+C:\Users\AyeChan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\obj\Release\Health Sales System.csprojResolveAssemblyReference.cache
+C:\Users\AyeChan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\obj\Release\Health_Sales_System.Homepage.resources

@@ -1,0 +1,11 @@
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\bin\Debug\Health Sales System.exe.config
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\bin\Debug\Health Sales System.exe
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\bin\Debug\Health Sales System.pdb
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\obj\Debug\Health Sales System.csprojResolveAssemblyReference.cache
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\obj\Debug\Health_Sales_System.Form1.resources
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\obj\Debug\Health_Sales_System.login.resources
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\obj\Debug\Health_Sales_System.Properties.Resources.resources
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\obj\Debug\Health Sales System.csproj.GenerateResource.Cache
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\obj\Debug\Health Sales System.exe
+c:\users\ayechan\documents\visual studio 2017\Projects\Health Sales System\Health Sales System\obj\Debug\Health Sales System.pdb
